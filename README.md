@@ -4,7 +4,7 @@
 
 **Mapty** is a web application that allows users to log their workouts (running and cycling) directly on a map. The app provides a visual representation of workouts, keeps track of important statistics, and saves the data in the browser's local storage for persistent tracking.
 
-This project demonstrates practical use of modern JavaScript techniques, object-oriented programming (OOP), and browser APIs such as Geolocation and Local Storage.
+This project demonstrates practical use of modern JavaScript techniques, object-oriented programming (OOP), and browser APIs such as Geolocation and Local Storage
 
 ---
 
